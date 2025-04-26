@@ -1,0 +1,19 @@
+/* External CSS */
+h1 {
+    font-size: 36pt;
+    color: #E74C3C;
+}
+
+.content {
+    margin: 0 auto;
+    max-width: 600px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.info p {
+    font-size: 16pt;
+    color: #2C3E50;
+}
